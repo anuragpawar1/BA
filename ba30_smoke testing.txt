@@ -1,0 +1,15 @@
+always use calibiry 11.10
+
+..smoke tetsing - 
+  smoke = sanity + trouble shoot . I mean to say we try to trouble shoot when build gets failed. Generally we 
+   identifie where the exact issue when our build gets failed.
+   
+  During smoke testing we perform package validation. assume during exicution we identify the issue we have to
+  identify object belongs to which package. We request platform team to recompile the package.
+
+note - we work on traditional architechture so we do sanity and smoke on monday itself.
+
+
+
+  
+  

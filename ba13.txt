@@ -1,0 +1,15 @@
+tool for agile - jira agile project management
+defect - hplm tool used
+
+advantage --
+  it support clinet and server
+disadvantage --
+  doesnt support systeam integration architechture
+  
+sprint release -  1.add new address_amazon grid
+
+list and combo box -- 
+
+agile follows:- 1.interative approch-- 2.regression 
+
+1.Interative approch - it is nothing but repetative approch.

@@ -1,0 +1,37 @@
+Testing terminology - 
+
+ 1.Monkey/Speed testing - max task wrt less time
+   we conduct/perform monkey testing on high and basic priority functionality test case , when we have  max task
+   wrt less time.
+
+ 2.Gorilla/frustation/torture Testing - we apply the same inputs on the same module to validate the functionality 
+   to ensure there are no bug exist. The main objective is to test specific module 50 60 times. (tolerance testing)
+   
+   When product is high coast above testing used.
+
+ 3.Explorotory Testing - when domain is diffrent use this testing, we have to explore functionality. 
+   Level by level functionality coverage. i mean to say simultenious learning , test design and exicution.
+
+ 4.Ad-hoc Testing - If we dont have sufficent test data,(srs is not avialabe, we can test)
+   It is nothing but mechanisam used when we dont have sufficent test data.
+
+
+Build Architechture - 
+  on 1 release  we get 4-5 build. Build going to client called master build line.
+
+ Q.How to identify your build version?
+ Ans:- select * from build_version
+       date            version
+       26 april,2022   26  
+       03 may ,2022    27 (insted of 27 we get 28 directly then it is very high (version control) critical defect)
+
+ current version + 1 = close of defect. (identified in 26 and closed in 27.0) , if not resolved reopen defect.
+
+ Blocker defect - without fixing this we can not validate the systeam. (oreder id is not getting generated)
+                  (high priority,immediate fix) 
+ 
+
+ 
+  
+  
+  

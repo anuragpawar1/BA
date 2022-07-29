@@ -1,0 +1,48 @@
+Q.what is the difference between http and https?
+A. s stands for secure
+
+Q. Oracle 9i , 10g , 12c
+A. i-internet , g-grid , c-cloud
+
+Q.what are server architechture?
+A. ..Standalone server - 1 client 1 server
+   .. 1 tier - 1 client 1 different server
+   .. 2 tier - 2 client 1 server
+   .. 3 tier - client --web server --client
+
+web server  - weblogic, iss ,tomcat
+
+note - we work on ntier (12-13 server)
+
+Q.web based teting ? 
+A. 1.hyperlink based accessbility         6.session
+   2.performance                          7.cookies
+   3.interface validation
+   4.page navigation
+   5.tab validation
+
+..session - It is used for security reasons . assume in any web application exicution the time span between event1
+            and event2 is called session time.
+            The time span between of event 1 and event 2 in any web based application is called session time
+
+..cookies - during exicution of any web based application the systeam generates the log file, one is temporary 
+            and one is permenant. Temporory file is known as cookies and permenant file gets stored in server.
+
+What is SQL injection ?
+It is used for hacking purpose
+
+sow(statement of work) -client -organisation . It consist 1.project duration 2.technology 3.risk 4.systeam info
+                                                          5.resource information
+
+kick off meeting - It is a very first meeting between client and project team member. In this meeting,we disscuss
+  goals and objective and how to achive it.
+
+What are the roles and responsbility?
+1.requirement analysis
+
+
+SRS we recive via ip address of the central dive.
+
+Test Secinario - function ---best probable condition
+  senario defines list of probable condition needs to be apply to derive functions.  
+3 days work 

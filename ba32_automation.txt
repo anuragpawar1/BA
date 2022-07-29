@@ -1,0 +1,15 @@
+Automation : - 
+ if we analyse regression testing means re-exicution and retesting means re-exicution , it means re-exicution is a 
+ comman factor , that is repetation.
+ In comman testing practice,we implement test automation with respect to test impact and test criticality.
+ 
+ test impact - test repetation
+ test criticality - complex to test manually 
+
+ if we implement automation advantage will be - 1.less time 2.less resorce utilisation 3.avoid human error
+
+ systeam integration and backend cant apply automation.
+ 
+note - data migrate only when there is technology chhange or systeam configuration change.
+
+ 

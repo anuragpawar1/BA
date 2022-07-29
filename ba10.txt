@@ -1,0 +1,17 @@
+1.Agile is a philosophy. it is not plan driven it is value driven. i.e requrement is absolute dynamic by nature.
+2.It is a Methodology . It means approch
+3.It is cummulative by nature.
+4.Frequent change in requirement does  not having impact on devlopment or testing.
+
+stories (srs)- accpetance criteria
+
+Agile meeting - agile velocity: is gusessing techqune is used to ensure total no of sprint backlog 
+ to be deliverd in the corresponding agile project. 
+av= 
+note: 7 -13 sprint backlog is deliverd  in one sprint.
+
+
+Agile grooming :- meeting basically conducted just before start of any sprint. Product owner, devloper , test engg involved
+  to analyse the req to be deliverd in the corresponding sprint to ensure everthing is clear or modification require.
+
+what i understad is that req is absolute dynamic in nature in agile.

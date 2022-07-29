@@ -1,0 +1,7 @@
+customer req , analysis , 
+
+1.brs 2.srs
+
+graphical repraentation of fish model- 1.brs- srs - design- coding- testing-maintanance
+
+verification or static testing - 

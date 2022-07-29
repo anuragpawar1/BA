@@ -1,0 +1,37 @@
+devloper use call function to integrate all module /sub module w.r.t high level design and low level design
+this file is known as master file.
+
+during sys integration we test the functionality of systeam w.r.t.customer requirement we implement 3 possible approches
+1.top down 2.bottom up 3.hybrid approch
+
+1.Top Down Approch :- during top down approch we perform the test on main module or upstream systeam. Insted of coming
+to sub module or down stream systeam which is under constructive or physically not accesaible. We implement 
+temporary program called stub.
+stub  : also called as called program. Stub is written in xml (extensive mark language) . It consist values and text.
+
+xml is a universal language
+
+1 stub = 1 release
+
+how to edit file ?
+ans:- via notepad ++
+
+file name : R4.0_Amazon_Order Generation _price_stub_008
+
+How to send file to the server?
+Ans:- 1.via UNix 2.FTP(file transfer protocal.) 
+
+Where used unix?
+Ans:- I used inn puTTY terminal. During stub implementation. During sending file to server. During response file validation
+During server status validation. During Job Run . Log file validation. 
+
+Commands used to send stub to server ?
+Ans:- CD and cd..  ; cat , ls , chmod 777 
+
+What is FTP vs https?
+Ans:-
+
+Architechture of FTP :- 
+    
+
+standerd of code : 250 line code , 1 defect

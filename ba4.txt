@@ -1,0 +1,18 @@
+if we analyze the hdlc model then srs is reviewd by BA. degin will be revived by the devloper and this is white box testing.
+it is called as veerification or static testing. We perform sys and functional testing i mean to say
+functionality of sys,is called as black box testing.  
+
+i mean irespective of any stage defect we are reposnsible for dynamic defect i.e it can be req defect it can be design code defect.
+ 
+what is diff btween static and dynamic testing ? verification and validation?
+
+dev review code during wb testing then what is importance of black box testing?
+devloper concentrate on presenc e of defect in code but in bb testing test engg focuses on presence as well as 
+ defect . i mean to say we have to concentrate on positive and negative condition.
+during wb testing dev concentrate on 2 dimensional concept
+                                 blb testing - 3 diamentional testing
+
+3 diamension = buissness logic
+
+hdlc = verification + validation without verification validation is not possible and without validation quality 
+software is not possible.

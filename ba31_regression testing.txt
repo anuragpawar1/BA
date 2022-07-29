@@ -1,0 +1,47 @@
+Bigbang Testing(Informal testing) - one big shot, one major functionality from start to end we need to test.
+  
+  During this test we concentrate on a single stage to validate the functionality insted of multiple stages after
+  completion of entire systeam devlopment. 
+  
+  It is done before goes to production and after SIT testing. 
+
+  eg.Invoice generation
+
+Formal Test/Incremental test - 
+  During this test we concentrate on level by level functionality coverage from unit level to systeam level.
+  we validate the functionality from unit level to systeam level.
+
+
+Retesting - 
+  reexicution of our application/systeam on same build to validate the functionality with different set of input
+  data combination.
+
+  I mean to say we implement data intelligance to perform testing.During this test we apply multi diamentional 
+  data analytic approch.
+  
+  Q.Differance between retesting and regressiom?
+  A.for very first time we are doing retesting after that retesting called as regression. Every regression test
+    can be retesting but every retesting might not be regression test.
+    
+    what i understand retesting and regression is just an approch.
+
+Regression test -
+
+  Once we recive the intial build we start exicution, if we find any defect we send it to devloper. Devloper will
+  fix the defect and once we recive modified build we check wheather the existing defect gets resolved not or any 
+  side effect occured. 
+  
+  generally we do re-exicution of application/systeam on modified build to check bug fix work and
+  occurances of side effect.
+
+ note - old defect testing is also called regression test
+
+  Generally in every testing cycle,we perform regression test twice. 1.During comprehensive test 2.Post SIT
+  
+  During regression we concentrate on SIT failed test case , newly added scenario , high prority test case ,
+  if time permits inter dependent test case.
+
+  re-exicution is a comman factor, re-exicution means repetation it means probablity of implementation of 
+  automation is maximum.
+
+note - automation will apllied only if there is 1.repetation 2.stand alone architecture

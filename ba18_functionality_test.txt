@@ -1,0 +1,28 @@
+2.Functional Testing:-
+ classified into two types- a.functionality b.non-functionality
+
+a.Functionality testing is considerd as one of the major part of black box testing. During this test we concentrate 
+ on we validate functionality of system or application wrt customer requirement.
+
+ During functionality testing we concentrate on various coverage analysis.
+ 
+..behaveioural coverage - (to check objects property)
+    objects          function                     properties
+    text box --------Enter   -------------------- focus/unfoused , enabled/disabled 
+    list box---------Select  -------------------- multiple element can be used at a time ,focus/unfoused
+    combo box--------Select  -------------------- one element can be used at a time , focus/unfoused                           
+    radio button-----click ---------------------- on or off / or
+    check box--------click ---------------------- check or uncheck
+    button-----------click ---------------------- focus/unfoused , enabled/disabled 
+    hyperlink--------click----------------------- access
+
+ ..input domain testing - (to check type  and size of input objects)
+    It is applicable only for text box.
+    type/class - BVA (Boundary Value Analysis)        size/length - ECP(Equivalance class Partition)
+     min-1 min min+1---------max-1 max max+1
+
+ ..error handling coverage - (preventing negative navigation)
+ ..backend coverage - (impact of content wrt user operation)
+ ..service level coverage - (sequence of functionality)
+ ..calculation based coverage - (validating arithmatic logic)
+ 

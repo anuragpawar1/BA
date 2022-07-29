@@ -1,0 +1,21 @@
+significance
+why etl - dss decision support sys
+.to monitor and measure the strength of dev team using sqa concept
+1.design the robust code and design to it no defect 
+what i understand alogipony market there is huge compition exist to survive in market org has to concentration on quality to achive to quality prod it has to focus on testing
+lets take eq nokia rule in sybian era when the tech get changed from symbian to android nokia even can not survived.
+2. to get quality approch to test 
+
+software prob - 1.solved by s/w engg prob through a s/w enng process by s/w dev life cycle 
+it consis by genect phases 1. what we are going to devope and customer requirement that would be analayzed
+
+stage of sldc (brs)(srs)(frs)
+1 info gathering 
+2 analysis
+3 design codeing 
+4 testing
+5 maintanance
+
+sdlc catgories in to 2 parts 1 lifr cycle testing life cycle 2 lifr cycle dev
+
+if it is wen app if it 

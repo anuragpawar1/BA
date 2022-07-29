@@ -1,0 +1,44 @@
+Release testing - 
+ After complition of UAT and regression test , organisation concentrate on release team formation.
+ This release team consit hardware engg , software devloper , software test engg.
+ This testing also known as postmortum testing , confidance testing , pre-release testing.
+ During this test we concentrate on critical area of application or systeam.
+ 
+ what are the critical area in your project?
+ banking project - security , transaction 
+ amazon - authorization , otp generation , payment systeam , delivary 
+ what are the risk factor in your project?
+ 
+
+ Factors we concentrate 
+ 1.os handling
+ 2.input device handling (mouse , keyboard)
+ 3.output device handling (monitor)
+ 4.over all functionality (critical functionality)
+ 5.enviorment handling
+ 
+ sign off - we provide kt to client
+
+note - we are invovled in client interaction as well as KT to client.
+
+Post Production Architechture - 
+ after project delivary if defect come then it called - live defect , production issue
+ 
+ Production issue - after build goes to production , if any issue is identified by client/end user and that is a 
+ valid and missing functionality should be considerd as production issue.
+
+ note - we are invovled in production issue testing.
+
+ missing functionality ---validation of criticality and impact analysis ---change the code ---test the change area
+                                                                                    (Hot Fix)
+
+ cmt(configuration management team) is formed for CR and poduction issue. (devloper , ba , test engg invovled)
+  To handle CR is called as CMT.
+
+ Enhancement: --validation of criticality and impact analysis ---change the code ---test the change area
+ 
+ 
+
+
+ 
+

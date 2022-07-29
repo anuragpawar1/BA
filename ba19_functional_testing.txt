@@ -1,0 +1,17 @@
+..error handling coverage - (preventing negative navigation)
+  defect level is low or medium.
+
+..back end coverage -  (impact of content wrt user operation)
+  
+
+database testing:-
+ 1.data mapping
+ 2.ACID (atomicity,consistancy,integrity,durability) properties validation
+ 3.data intigrity
+ 4.schema validation
+ 5.data manipulation
+ 6.table structure validation
+ 7.performance
+
+char     - asdvkvk          varchar (static data)
+var char - 777gfhd          varchar 2 (dynamic data)

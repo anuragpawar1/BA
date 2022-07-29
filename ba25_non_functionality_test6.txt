@@ -1,0 +1,56 @@
+3.Security test - 
+  1.Authorisation - verifying user is valid or not
+  2.access control - Role based access security systeam
+
+ testing duration - 2,3 days (critical info) before project goes to production.
+
+ note - always use credential word for getting info from devloper.
+        during security testing we perform frontend and backend testing
+        automation testing no entry zone
+
+ 
+4.Performance test - it is an advance testing technique and complex to conduct , because huge enviorment is
+  required.
+  During this test we validate speed of processing of the application or systeam. 
+  
+  cause- a.frontend 1.devloper wrong logic 2.declaration of class 3.object
+         b.backend  1.backend wrong logic 2.wrong schema validation 3.wrong datatype declaration 4.shortest path 
+                                                                                                 detection
+         c.when no of user is incresed
+  
+..load testing - the exicution of our application with customer expected configuration and customer expected load
+  to estimate the performance is called as load testing.
+  
+..stress testing - the exicution of our application with customer expected configuration and customer expected 
+  load and peak load , to estimate the performance is called stress testing. (vvimp)
+  The main objective of stress testing is , to indentify threshould point or breakeven point.
+
+  It is used for enhancement purpose, no users might be increse in near future hence identifying  breakeven point
+  is most important from bussness prospective point of view.
+
+..Endurance test - 24,48,72 hr observation. how much time application can bear the customer expected load with 
+  respect to time is known as endurance test. 
+  
+  During endurance test we analyis and monitor memory consumption to determine potential failure.
+
+..data volume testing - 
+  It is also called as flood testing.This testing is related to huge volume of data. During this test we validate 
+  the systeam performance by incresing/decresing the volume of data in data container.
+   
+  During this test we concentrate on various factor 1.response time 2.Systeam behaviour
+
+..Storage testing - 
+  During this testing we verify 1.wheather it has enough space to prevent unexpected termination
+                                2.specific data is getting stored in appropriate directories or not
+                               
+
+what is the difference between  issue , defect , bug , error ?
+
+error- a mistake in the code is called an error due to this error mismatch occurs.
+defect -due to this error mismatch occur is called as defect.
+bug - when this defect accepted by devloper is called as Bug.
+issue - sometime some defects are called as issue (neither it is acepted by devloper and rejected by tester)
+
+known issue - defect which is already exist in systeam due to environmental factor
+
+  

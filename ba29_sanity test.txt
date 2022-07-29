@@ -1,0 +1,53 @@
+Build Upgradation Activity :- 
+  build will come friday after 6pm close of buissness.
+  
+ Q.How we recive the build?
+ A.Devloper deploy local build on softbase/build server and we recive the build via FTP and they share us ip address.
+  (Friday evening we get email of ip addres - Hi team,
+                                              please find build line 26.0 is kept at @172.34.56.24 
+                                              and start test operation activity)
+
+  object synchronisation process with sever = build upgradtion
+ 
+  once we recive the initial build we send it to platform team for build upgradation activity. Platform team implement 
+  compilaton process to handle build upgradation activity.
+  Once it done, platform team share log file with valid and invalid objects. After that we need to analysis  which
+  object needs to be re-validate and request platform team to re-compile.
+     (it will be done till 10am monday)
+   
+ smoke vs sanity testing - 
+
+..package validation - (we do it on monday) 
+  Platform team create the packages
+  
+  sanity = level 0/testability/acceptibility/build verification test.
+  During sanity test we validate core and basic functionality of the systeam or we check wheather the systeam is 
+  ready for testing or not . i mean stability of build or systeam. Other day test is called comprehensive test.
+  
+  sanity test duration = 1 day
+ 
+  Fundamental core functonality of any systeam is static by nature.
+
+  Q.Do you write test case of sanity testing?
+  A.sir what i understand during sanity test we validate core and basic functonality of any systeam which is static by 
+    nature. For core and basic functionality we design test case during initial satage of systeam devlopment.Means 
+    we involve in exicution only.
+
+  Generally during sanity test we find enviromental related defect are maximum. it means 1.Run time error
+  2.dll file missing 3.404 issue
+
+  Q.Do you register defect in tool?
+  A.Generally we register high critical defect rest we share with devloper via email(only for sanity)
+
+
+  During Sanity we concentrate on - 
+  1.hyperlink acessbility
+  2.performance
+  3.user face validation
+  4.core functionality
+  5.page navigation
+  6.tab validation
+  
+  
+
+  

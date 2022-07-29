@@ -1,0 +1,18 @@
+UAT-
+UAT test follows low level mechanisam. UAT catagorised into two parts 1.alpha test(application) 2.beta test(Product)
+
+ SIT                                                                UAT
+1.High level mechanisam                                            1.Low level mechanisam
+2.Primary                                                          2.Secondry  
+3.organisation enviorment                                          3.Customer expected environment
+4.client involvement isnt mandatory                                4.client involvement is mandatory
+
+
+Alpha                                                               Beta
+1.Applicale for application                                        1.Applicable for Product
+2.Tested in organisation enviroment where                          2.Tested in customer side enviroment                           2.
+  it devloped
+3.It is tested by real customer                                    3.It is tested by customer side like people
+
+
+ 

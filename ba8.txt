@@ -1,0 +1,21 @@
+lekage defect - lets assume in sit 80 we identify defect and in uit we identify 30 defect . this defect we will analuzed 
+ out of this 30 20 will be old and 10 are new . this defect known as defect lekage.
+
+existing defect - 1.way of representation 2. devloper mistake 
+
+what  is defect removal efficency - a/a+b a= defect indentified during sit and b = defect identified during uit
+   80/80+30 ratio is numerator is always less than denominator i.e genalrry 0.8 to 0.9 is goofd efficiency
+
+gap analysis - aactual and desired efficency is a matrix is used to analyse the gap betwwen two concecutive stage\
+               of the organization systeam.
+
+
+core team member ba - ba and devloper , platform team or enviorment team this is your devloper and tester
+
+organization structure - team lead , project lead , spm amanager , delivary manager , 
+
+enviroment - local enviorment , sit enviorment , pre production enviorment
+
+we test in live physical data
+
+entry critea and exit criteria -  

@@ -1,0 +1,43 @@
+is the exit criteria of coding and
+complition of wb testing
+
+v model - v stsnds for verification and validation. this model defines mapping between verification and validation.
+          It looks like v. life cycle devlopment lcd and lct
+
+brs: requrement gathering                                         test plan: assesment of adoption of devlopment document
+        and analysis
+ 
+
+
+
+dre - defect removal efficiency
+
+cr - change request 0r rfc - request for change   
+
+advantage - 1. depolyment and 
+disadvantage - 1.expensive model 2. applicable for high cost client
+      
+note:- basically who is going to decide ..genarally the process implementation is decide by clint based on nature and behaviour 
+        of project. 
+
+it is high cost model because for testing there are multiple stages are implemented in v model
+
+Pet (Process export tools and technique) Process:- for small and medium companny . it is devlopedd by hcl and 
+reconized by qa firm of india
+
+ in this stage model insted of multilpe stage of testing single stage is implemented. to reduce the cost
+
+refination form of v model
+
+
+
+****Waterfall Model - It looks like waterfall, also called as linear sequential model.
+Model defines each phase purely depends on delivarables of privious phase.
+
+
+
+
+
+
+
+                          

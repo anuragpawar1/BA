@@ -1,0 +1,46 @@
+..compatibility test - 
+  It is also known as portability test. During this test we check wheather our application compatable with customer
+  expected platform or not.
+  
+  customer expected platform - mongo db , cloud , chrome , unix
+  
+  it is catogarized in two type - a.forward b.backward
+  
+  Generally we find backward compatibility defects as maximum.
+
+  Data Migration
+   
+  I have invovled in browser compatibility. 
+    cross-browsing compatibility (chrome vs IE , chrome vs firefox , chrome vs safari)
+    
+    version comparison ( IE9 vs IE10)  we use [vm-wire] virtual machine software to compare on same laptop.
+
+ Requirment:
+   duration 3 months
+   cross-browsing compatibility (chrome vs IE , chrome vs firefox , chrome vs safari)
+   1 candidate for 1 browser
+ 
+ Note - This testing is only applicable for frontend validation. you are not involved in backend. 
+  
+  During cross browsing compatibility we concentrate on - 1.Hyperlink accessbility
+                                                          2.Page navigation
+                                                          3.Tab Validation
+                                                          4.Performance
+                                                          5.Cookies
+                                                          6.Interface Validation. 7.Session
+
+
+..Configuration test - 
+  During this test we concentrate on wheather our application support various type of hardware device.
+  It is also known as Hardware Compatibility test. eg.  LAN , WAN , MAN , FTTH , topologies , VLAN , 5g
+  
+  Topologies - Stand alone , ring , mesh , star depends on geographical structure.
+
+  Telecom - Network (oss -operation support systeam )  and billing (bss - bussness support systeam)
+
+
+
+  
+
+   
+ 

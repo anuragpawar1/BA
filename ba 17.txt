@@ -1,0 +1,39 @@
+microsoft 6 rule - controls are init capital , control should be properly alligned , controls are visible
+                   control should not be over lapped , ok cancel existance , systeam menu existance.
+
+       
+note - systeam intigration testing is absolute back end testing  
+
+database , etl , big data , bi , sys intigration testing = backend testing.
+
+back end = no entry zone for automation
+
+Systeam and functional test :- (Black box test) After complition of intigation code .exe(build) copy gets genarated 
+  Once we recive the initial build from devlopment team we concentrate on systeam and functional test through a set 
+of black box testing technique wrt customer requirement.
+
+
+Black Box Testing catogarized in four types :-
+1.Usability 2.Functional 3.Performance 4.Security
+
+1.Usability:- During this test we concentrate on user friendlyness of build/screen.
+ a.GUI b.Manual Support Test(regular expression)
+
+functional defect is always medium or high defect.
+
+do you have invovled in gui testing?
+Ans:- sir we cover it during test excicution and functional testing.
+
+a.GUI:- 
+  ..ease of use  ..ease of operate ..speed of operation
+
+gui testcase :-
+  ..allignment ..color ..font ..size ..error message
+
+all GUI defects are low priority.
+
+GUI Defects :-improper date format , label name 
+
+
+2.Manual Support Test - context sensitiveness of user manual e.g- regular rxpression: some time some aplication object 
+  having same logical name and same physical expression.

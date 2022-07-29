@@ -1,0 +1,20 @@
+brs - buss req sys (ba) it is designed by ba this doc defines req of customer to be devloped as a software.
+      this doc acts as a brighe between customer and that organization , eq time should be displaed in terms of digit 
+      if it is kept blank
+
+srs - soft req specification i sdesigned by ba . it is customer req specification, functional req specification 
+      this doc defines functional req to devlope and sys req to be used. 
+      
+functional flow diagram - how does it works 
+snap shot - basically it is designed by ba as html code 
+enviroment - what are the hardware req or software req
+
+design--
+       desined by solution designer proj achitechture
+1 high lvl design - it is also known as external design. defines hicherchi of all possible personility to be devloped
+                    as a module , component , systeam
+
+apart from srs other related document required to perform u r test - srs compulsory high lvl design must low lvl design 
+
+low level design - internal design nothing but it define static logic of every some eq- class diagram , object diagram 
+                   er diagram , schema  

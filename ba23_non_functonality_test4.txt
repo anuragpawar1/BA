@@ -1,0 +1,12 @@
+..Installaton testing - 
+  During installation test we validate the installation of application on customer expected configuraton. During 
+  this test we concentrate on 
+  1.set up programm exicution before installation.
+  2.easy interface during installation. (useability)
+  3.occupied disk space after installation.
+  4.check uninstallaton.
+
+  
+..Parallel Testing - we are not involved in this test. never got a chance i have worked in application based 
+  It is applicable for product based testing.
+  

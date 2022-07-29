@@ -1,0 +1,22 @@
+LLD (low lvel design): class dia , object dia , schema , er diagram
+
+schema - concept is same but teerminoly may be different. schema relation 
+        front end - object relational ship mapping
+        backend - schema called
+        object relation ship established in back end that can be 1-m or m-1.
+
+1-m one to many
+
+
+er diagram - entity relational diagram
+
+
+   1           -    m
+class - cell , object - samsung , apple
+
+white box testing - it is also known as transpernt. after completion of design and review dev writes the program
+                    to physical construct software. after complition of coding the implement white box testing 
+                    to ensure completness and 
+                    during wb testing they follows 2 diamensional approch.
+
+Glass box testing - clear box testing :- 

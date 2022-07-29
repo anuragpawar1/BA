@@ -1,0 +1,29 @@
+burn down chart - this chart represent mapping between pending task vs pending time.
+
+scrum meeting:- It is nothing but evey day status call. In this meeting basically scrum master, product owner,
+                devloper, test engg.
+
+retrospective meeting :- It is done after every sprint we invovle in retrospective meeting. In this meeting 
+we analyze what went wrong and what are the action needs to be taken to improwise our performance.
+
+Solution owener - responsible for chanalize the money/revenue
+stack holder - pm,spm,dm responsible for operations , identifying the risk factor , defining the scope of the project.
+product owner - mresposible for selecting product backlogs
+estimation - mechanisam used transformation of product backlog in to sprint backlog
+product backlog - list of requirement to be deliverd in the corresponding agile project.
+sprint backlog - 
+sprint - defines one release module in agile process
+stories - defines the functional requirement to devlope and systeam requirement to be  used
+acceptance criteria - defines fuctionality in terms of i/p o/p in process.
+
+Estimation :- 
+supply chain -supply chain defines journey from product manufaturing to end user.
+objective of the application is to analyze and verify the avilability of the product of specific location.
+
+Project architechture :- application 
+
+sku no, product type, manufacturing date,loc id, product id 
+
+20 records will be displayed
+
+In the result grid 20 records will be displayed

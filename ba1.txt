@@ -1,0 +1,11 @@
+que: why join as test engg
+what i understand the market is absolute oligopoli. i mean to say there is  huge compition exist. 
+organization requre quality software to survive in the market.
+quality means organization has to emphasis on testing.
+
+SQA software quality assuranse
+1.customer requirement (what is the purpose)
+2.customer expectation (privacy , performance)
+3.timely delivary
+4.cost of s/w
+5.risk management

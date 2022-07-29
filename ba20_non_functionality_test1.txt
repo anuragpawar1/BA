@@ -1,0 +1,26 @@
+..service level coverage - (sequence of functionality)
+   uid
+   password
+   message --success---log in
+   message --log----failed
+
+..calculation based coverage - (validating arithmatic logic)
+   rating charging (telecom)
+
+
+b.non-functional test :-
+  ..recovery test ..compatibility test ..configuration test ..intersysteam test ..installation test
+  ..globalization test ..parallel test ..sanitation test
+
+ ..recovery test -
+   It is also known as reliability test. During this test we validate the recover of our application from 
+   abnormal situation to normal situation. Abnormal situation means server down , systeam crash , performance
+   issue .
+    
+   During abnormal situation steps to exicute -
+    what i understand every function consist multiple event , assume start event and end event in between any
+    abnormal situation occur systeam should have the tendency to follow rollback mechanisam.
+   
+   two systeam sharing one comman database (when 80% functionality is same)  
+
+   

@@ -1,0 +1,24 @@
+requirement of project - 
+data:
+status = 100 , 200, 300, 400, 500
+
+product type = a,b,c,d,e,f
+ 
+date = dd/mm/yyyy
+
+loc id = 01,02,03
+
+-----------------------------------------
+
+if status = 200,300, 400
+and date >= sys date
+
+
+
+
+Estimation : It is a mechanisam . in it devloper , tester , product owner invovled sits in war room.
+  estimation process is done by basically by three factor-
+  1.effort 2.knowlege 3. complexity
+
+complexity - data migration from oracle to teradata,
+  

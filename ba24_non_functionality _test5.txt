@@ -1,0 +1,30 @@
+..Sanitation test -  
+  It is also known as garbage testing , during this test the main objective is to remove  extra feature 
+  in application or systeam. I mean to say during enhancement client might approch organization for that specific 
+  requirement such that , organization can generate more revenue.
+
+..Globalization testing / localisation testing / international testing -
+  This is also known as language compatibility test , in this test we check wheather our application supports 
+  multi-linguastic character . i mean sir application should be accessed by each and every person in the world.
+  
+  note - this is applicable only for front end and you are not involved in backend testing. 
+        involvement , yes 3 month req. english vs french in southern canada
+  involvement- 
+  1. interface validation 2.functionality 3.page navigation 4.hyperlink accessbility 5.data validation
+  6.performance
+  
+  functionality : by default french should be hyperlinked english , 
+                 date format - yyyy/mm/dd ,  french -  mm/dd/yyy
+   
+  note - language knowlege reqirement .. absolutely no 
+
+
+..security testing - 
+  It is adavnace testing technique and critical by nature. (all defect related to securitiy test should be considerd
+  as critical by nature) It is catogarised into 1.authorization 2.access control 3.encryption decription
+
+  1.authorization - user is valid or not
+  2.acess control - valid user haveing permission to do specific task
+  3.encryption decription - data conversation between client and serrver (you never got a chance)
+
+practical requirement : -

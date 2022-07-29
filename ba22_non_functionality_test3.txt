@@ -1,0 +1,38 @@
+..Intersysteam testing -
+  Sir basically in my project data moves to message broker  mainfram ,and then data moves to data prosessing  
+  custom table after that data get uploaed.
+  
+  During this test we validate co-existance of our application along with other existing software or systeam
+  or application to share the information of resorces along with other associated sub-systeam.
+  During this test we implement file handling mechanisam. Generally during file handling we use data 
+  intelligence approch, to deal the file handling.
+
+  File Types - flat file , excel , csv , jason , EDI file (vvimp telecom , healthcare)
+
+  EDI file - electronic data interchange file
+   adv- secure , low cost 
+  
+   It consist segments - 
+
+      ISA - Interchange Control Header
+
+           GS  - Functional Group Header
+
+               ST  - State Transaction Header
+                  NM: INDIA , ELECTRONIC , AMIT PATIL , SBI ---------
+                  trn:8.26pm * 34562234 * pune  --------------------- (Payloads)           
+
+
+
+               SE -  State Transaction Tailor
+
+           GE - Functional group tailor
+
+      IEA - Interchange Control Tailor
+
+  Note:-File editing tool - notepad++  ,  * - seperator(astis) , 2-3 min for process
+        real time table name - select * from tran_info , select * from virt_cust_info 
+        Every defect belong to file handling is critical by nature.
+  
+
+      

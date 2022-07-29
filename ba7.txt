@@ -1,0 +1,14 @@
+wb testing - during automation script validation we implement wb testing mechanisam. logic and data validation.
+             
+sys and functional testing(black box testing) frontend and backend testing - when we are gng to black box 
+            testing . 
+            it is a build level testing teqnique . during bb testing we concentrate on internal functionality 
+            depends on external enterprise , genarally it perform sys and functional test we respect to customer requirement
+          generally  we apply 3 diamensional concept approch to satisfy the busnes logic.
+
+ 
+what is entry criteria and exit criteria ?
+sdlc life cycle process - whenever 
+sit - systeam integration test (we invovle at sit)
+uat/cat - user acceptance test
+pre production server - live copy

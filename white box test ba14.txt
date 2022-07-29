@@ -1,0 +1,22 @@
+white box testing type- 1.exicution test 2.operation test 3.Mutation test (logic and data validation)
+
+if involved in automation testing then test engg involvement is compulsory.
+
+after complition of code design devloper is going to review the code to check completness and correctness,
+is known as white box , glass box testing, clear box test.
+
+exicution test- 
+basis path coverage - exicution of all possible blocks
+loop coverage - termination of loop
+program technique coverage - performance check
+
+operation test -code must run on customer expected platform
+
+vvimp -- mutation test - i means devloper intentionally change the logic of code to estimate test coverages.
+
+
+Integration test(vvimp) - systeam integration and integration means what? 
+                        1.top down 2.bottom up approch 3. hybrid or bidirectional or sandwitch approch
+
+approch means a possible solution with respect to enviorment or situation.
+method means pre defined solution.
