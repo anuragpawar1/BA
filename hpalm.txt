@@ -1,0 +1,63 @@
+Q.If you find the defect, what will be your approch?
+A:- 1.we will log the defect in tool(hpalm). 
+    2.we have to start test exicution with independent batch.
+
+
+**summery: R4.0_SIT_Amazon_Login :
+'Mobile Number' Text box is accepting improper Data during addition of new mobile number in 'Add a new address' page
+ Country isnt getting displayed in 'Country/Region' dropdown in 'Add a new address' page.
+ Improper error message getting displayed for invalid Zipcode in 'Add a new address' page.
+-----------------------------------------------------------------------------------------------------------
+'Order id' is not getting generated during invoice generation in backend.
+'Transaction id ' is getting replicated twice in database.
+Invalid datatype for 'Transaction id' in database.
+--------------------------------------------Live Defects---------------------------------------------------
+Request id is not getting generated for product order processing.
+Invalid data is getting displayed in request file for order processing.
+Response is not getting generated for order processing.
+Request and response file data is not getting matched for sub-name and sub-id
+74774,airtel
+airtel,74774
+'Status' is getting displayed in frontend but not in database for 'track pakage'
+===========================================================================================================
+
+**Defect Component:-
+ 1.DETECTED BY :*
+ 2.Seviority:*
+ 3.Assign to:* --responsible person from dev end pm/pl
+
+ defect category/classification :- GUI/functional/backend/design/requirement/enviorment
+
+ closed in build
+ closing date
+ detected in cycle * :-SIT
+ detected in version: * 26.0
+ estimated fix time :
+
+ detected on date : 17 july 2022
+ actual fix time :
+ caused by code change :
+ closed in version *:-27.0
+ detected in build * : SIT
+ detected in release * :r 4.0
+ detected in enviorment :IE 11
+ planned change version
+
+ status *
+ priority *
+
+ regression : y/n
+
+ project
+
+ defect age : time gap between detected defect and close defect
+
+ seviority** 
+ status **
+ priority**
+
+
+deffered - dev agreed to provide solution in later version due to functionality interdependancy.
+
+defect id :- it is auto generated
+
